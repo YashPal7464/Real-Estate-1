@@ -98,11 +98,11 @@ const ContactPage = () => {
           </div>
 
           <textarea name="message" value={formData.message} onChange={handleChange}
-            className="border p-3 rounded-lg w-full" placeholder="Your Message" rows="4" required></textarea>
+            className="border p-3 rounded-lg w-full" placeholder="write Your Message here" rows="4" required></textarea>
 
           <button type="submit"
             className="w-full bg-red-700 text-white py-3 rounded-lg font-semibold hover:bg-red-800 transition duration-300">
-            Send Message
+            Send Message 
           </button>
         </form>
       </div>
