@@ -76,7 +76,7 @@ const Login = () => {
                     </form>
 
                     <p className="text-center text-sm text-gray-200">
-                        Don't have an account yet ? <Link to="/register" className="text-blue-400">Register here</Link>
+                        Don't have an account yet ? why not you make it <Link to="/register" className="text-blue-400">Register here</Link>
                     </p>
                 </div>
             </div>
